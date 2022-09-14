@@ -1,0 +1,16 @@
+body {
+  background-color: #cae09f;
+}
+
+hr {
+  border-style: none;
+  /* Setting the default browser values to none */
+  border-top: 5px dotted green;
+  height: 10px;
+  width: 5%;
+}
+
+h1,
+h3 {
+  color: #66bfbf;
+}
